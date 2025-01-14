@@ -1,0 +1,18 @@
+# Ignore credentials
+gen-lang-client-*.json
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment files
+.env
+venv/
+env/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
