@@ -1,0 +1,5 @@
+# Project dependencies
+pandas
+python-dotenv
+openpyxl
+xlsxwriter
